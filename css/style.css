@@ -1,0 +1,49 @@
+
+body{
+  background-color:#282828;
+}
+.container {
+  height:100%;
+  padding:10px;
+  margin-top:15px;
+  background-color: #ba9116;
+}
+#pad {
+  margin:20px 10px;
+}
+header {
+  height: 100px;
+  background-color:	#283a9b;
+  border: 1px solid black;
+}
+nav{
+  height:50px;
+  background-color: #80b03c;
+  border: 1px solid black;
+}
+#content {
+  height: 200px;
+}
+aside {
+  height:100%;
+  background-color: #43afbf;
+  border: 1px solid black;
+}
+article {
+  height:100%;
+  background-color: #db412c;
+  border: 1px solid black;
+}
+#promo {
+  height: 150px;
+}
+div .col-xs-3 {
+  background-color: #bace1e;
+  height: 100%;
+  border: 1px solid black;
+}
+footer {
+  height: 50px;
+  background-color: #4b3475;
+  border: 1px solid black;
+}
